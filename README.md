@@ -15,5 +15,10 @@ contains html css and js projects developed by utkarsh.
 ===Slider design with button navigation-- Bootstrap  ====================
 <a href="https://uvutkarshverma.github.io/html-css/slider-button-js/">https://uvutkarshverma.github.io/html-css/slider-button-js/</a>
 
+===Gaming web page for rexzo  ====================
+<a href="https://uvutkarshverma.github.io/html-css/rexzo/">https://uvutkarshverma.github.io/html-css/rexzo/</a>
+
+
+
 
 
