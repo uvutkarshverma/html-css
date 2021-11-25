@@ -8,5 +8,5 @@ https://uvutkarshverma.github.io/html-css/WebsiteTemplate/
 https://uvutkarshverma.github.io/html-css/food-ordering/
 
 
-3). Carry Bag - store Website using Html css
+3). Carry Bag - store Website using Html css (desktop only)
 https://uvutkarshverma.github.io/html-css/carry-bag/
