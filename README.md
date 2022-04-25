@@ -9,14 +9,3 @@ contains html css and js projects developed by utkarsh.
 === Carry Bag - store Website using Html css (desktop only)
 <a href="https://uvutkarshverma.github.io/html-css/carry-bag/">https://uvutkarshverma.github.io/html-css/carry-bag/</a>
 
-=== food ordering website
-
-<a href="https://uvutkarshverma.github.io/html-css/food-ordering/">https://uvutkarshverma.github.io/html-css/food-ordering/</a>
-
-=== Portfolio Website using html css javascript 
-
-<a href="https://uvutkarshverma.github.io/html-css/portfolio-html-css/">https://uvutkarshverma.github.io/html-css/portfolio-html-css/</a>
-
-
-
-
