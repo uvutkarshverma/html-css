@@ -10,6 +10,10 @@ contains html css and js projects developed by utkarsh.
 <a href="https://uvutkarshverma.github.io/html-css/carry-bag/">https://uvutkarshverma.github.io/html-css/carry-bag/</a>
 
 ===Blog Template using Material design Bootstrap  ====================
-<a href="https://uvutkarshverma.github.io/html-css/blog-mdb-template/">https://uvutkarshverma.github.io/html-css/carry-bag/</a>
+<a href="https://uvutkarshverma.github.io/html-css/blog-mdb-template/">https://uvutkarshverma.github.io/html-css/blog-mdb-template/</a>
+
+===Slider design with button navigation-- Bootstrap  ====================
+<a href="https://uvutkarshverma.github.io/html-css/slider-button-js/">https://uvutkarshverma.github.io/html-css/slider-button-js/</a>
+
 
 
