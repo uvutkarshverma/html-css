@@ -9,3 +9,7 @@ contains html css and js projects developed by utkarsh.
 === Carry Bag - store Website using Html css (desktop only)
 <a href="https://uvutkarshverma.github.io/html-css/carry-bag/">https://uvutkarshverma.github.io/html-css/carry-bag/</a>
 
+===Blog Template using Material design Bootstrap  ====================
+<a href="https://uvutkarshverma.github.io/html-css/blog-mdb-template/">https://uvutkarshverma.github.io/html-css/carry-bag/</a>
+
+
